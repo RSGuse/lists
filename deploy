@@ -1,0 +1,2 @@
+#!/bin/sh
+cp index.php ../../psirain.net/lists/index.php
